@@ -14,7 +14,7 @@ github_repo: "justbreathe"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://pukpuklouis.github.io/justbreathe" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://justbreathe.louis-chen.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -34,7 +34,7 @@ url: "https://pukpuklouis.github.io/justbreathe" # the base hostname & protocol 
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "https://pukpuklouis.github.io/justbreathe" # the subpath of your site, e.g. "/blog".
+baseurl: "justbreathe.louis-chen.com" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
