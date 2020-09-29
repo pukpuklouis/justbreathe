@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: 關於這個平台
 permalink: /about/
 ---
 
