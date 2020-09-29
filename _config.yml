@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Just Breathe 好好呼吸
+description: 你的呼吸決定你的生活品質
 github_username: pukpuklouis
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "justbreathe"
@@ -58,7 +58,7 @@ annotations: false
 show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics: UA-57531313-5
+google_analytics: 
 
 exclude:
   - docker-compose.yml
