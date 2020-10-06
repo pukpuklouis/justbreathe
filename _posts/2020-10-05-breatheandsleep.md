@@ -1,3 +1,17 @@
+---
+title: 如何呼吸決定了你83%的工作效率
+description: 你不知道的呼吸模式，正在破壞你的睡眠品質及身體健康
+comments: true
+hide: false
+toc: false
+layout: post
+hide: false
+categories: [工作, 呼吸]
+image: 
+author: "<a href='https://twitter.com/pukpuklouis'>Louis</a>
+permalink: /betterwork
+---
+
 # 如何呼吸決定了你83%的工作效率
 
 你不知道的呼吸模式，正在破壞你的睡眠品質及身體健康。了解呼吸跟腦神經科學之間的關係讓你更有效的生活
