@@ -6,6 +6,7 @@ layout: post
 Hide: true
 comments: false
 categories: [呼吸]
+search_exclude: true
 ---
 # Example Markdown Post
 
