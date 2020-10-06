@@ -1,5 +1,5 @@
 ---
-toc: true
+toc: false
 layout: post
 Hide: true
 description: A minimal example of using markdown with fastpages.
