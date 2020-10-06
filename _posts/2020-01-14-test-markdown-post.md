@@ -1,10 +1,11 @@
 ---
+title: An Example Markdown Post
+description: A minimal example of using markdown with fastpages. Test by louis
 toc: false
 layout: post
 Hide: true
-description: A minimal example of using markdown with fastpages. Test by louis
-categories: [markdown]
-title: An Example Markdown Post
+comments: false
+categories: []
 ---
 # Example Markdown Post
 
